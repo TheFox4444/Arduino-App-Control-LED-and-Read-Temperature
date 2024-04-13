@@ -7,4 +7,4 @@ This is the app I made for my exam, and the Only Graph button still has bugs, I 
   +MAX31850 OneWire
   +OneWire
 3. When you are done connecting wires, install libraries for the Arduino app, then choose the COMPort that connects with your Arduino board and upload your code into it.
-4. Wait for the Arduino app done upload the code, close it, and then you can open the WinForm app in the bin file and take control of the board.
+4. Wait for the Arduino app done upload the code, close it, and then you can use my C# code to build the WinForm app or use the Arduino Tem Sensor.rar that contain the WinForm app to take control of the board.
