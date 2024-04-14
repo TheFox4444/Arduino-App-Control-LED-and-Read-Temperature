@@ -36,7 +36,7 @@ namespace ArduinoAppControlLEDReadTem
 
             string[] Baud = { "1200", "2400", "4800", "9600", "19200" };
             cRate.Items.AddRange(Baud);
-            //Control.CheckForIllegalCrossThreadCalls = false;
+            Control.CheckForIllegalCrossThreadCalls = false;
         }
 
         private void Form1_Load(object sender, EventArgs e)
