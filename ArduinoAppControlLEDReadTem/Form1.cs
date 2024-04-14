@@ -21,7 +21,7 @@ using static System.Windows.Forms.VisualStyles.VisualStyleElement.TaskbarClock;
 using System.Collections;
 
 
-namespace WindowsFormsAppForArduino
+namespace ArduinoAppControlLEDReadTem
 {
     public partial class Form1 : Form
     {

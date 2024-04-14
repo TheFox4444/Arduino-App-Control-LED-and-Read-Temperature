@@ -1,4 +1,4 @@
-﻿namespace WindowsFormsAppForArduino
+﻿namespace ArduinoAppControlLEDReadTem
 {
     partial class Form2
     {

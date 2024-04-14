@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace WindowsFormsAppForArduino
+namespace ArduinoAppControlLEDReadTem
 {
     internal static class Program
     {

@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.9.34622.214
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsAppForArduino", "WindowsFormsAppForArduino\WindowsFormsAppForArduino.csproj", "{BA9A19F9-6EC9-4E37-B535-4A8A67234DB4}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArduinoAppControlLEDReadTem", "ArduinoAppControlLEDReadTem\ArduinoAppControlLEDReadTem.csproj", "{BA9A19F9-6EC9-4E37-B535-4A8A67234DB4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

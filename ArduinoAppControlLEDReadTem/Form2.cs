@@ -11,7 +11,7 @@ using System.Windows.Forms;
 using ZedGraph;
 
 
-namespace WindowsFormsAppForArduino
+namespace ArduinoAppControlLEDReadTem
 {
     public partial class Form2 : Form
     {
